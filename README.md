@@ -51,7 +51,3 @@ You can easily customize the app to suit your needs:
 - **Search Functionality**: Implement a search bar to quickly find notes based on their content.
 - **Tagging System**: Add tags to notes for better categorization and filtering.
 - **Reminders**: Add a feature to set reminders for specific notes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
