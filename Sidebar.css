@@ -1,0 +1,28 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: -29px;
+}
+.sidebar ion-icon {
+    width: 50px;
+    height: 100px;
+    cursor: pointer;
+}
+.sidebar_list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 0;
+    transition: 400ms;
+}
+.sidebar_list_active {
+    height: 300px;
+}
+.sidebar_list_item {
+    border-radius: 50%;
+    height: 24px;
+    width: 24px;
+    list-style: none;
+}
